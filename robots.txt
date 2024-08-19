@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://thamange.github.io/sitemap.html.gz
+Sitemap: https://thamange.github.io/app/sitemap.html.gz
+Sitemap: https://thamange.github.io/assets/sitemap.html.gz
+Sitemap: https://thamange.github.io/css/sitemap.html.gz
+Sitemap: https://thamange.github.io/includes/sitemap.html.gz
+Sitemap: https://thamange.github.io/item/sitemap.html.gz
+Sitemap: https://thamange.github.io/src/sitemap.html.gz
